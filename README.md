@@ -51,6 +51,7 @@ To get you started, we ran an Actions workflow in your new repository that, amon
 <footer>
 
 ---
+:)
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
